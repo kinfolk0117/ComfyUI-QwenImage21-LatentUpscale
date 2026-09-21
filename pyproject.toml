@@ -1,0 +1,9 @@
+[project]
+name = "comfyui-qwen-image-21-latent-upscale"
+version = "0.1.0"
+description = "Learned 2x latent upscaling for Qwen Image 2.1 in ComfyUI"
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+authors = [{ name = "kinfolk0117" }]
+dependencies = []
